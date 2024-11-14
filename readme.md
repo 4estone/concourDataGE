@@ -8,4 +8,6 @@ Parmis les variables proposées, on retiendra la production d'énergie d'un côt
 
 ### Faire évoluer la proposition en avançant
 
+Les limites à ne pas dépasser
+
 ### Des outils limités mais suffisants
