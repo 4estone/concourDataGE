@@ -19,7 +19,7 @@ Q3D.gui.dat = {
 			o: 1,
 			l: false
 		},
-		cmd: {         // commands for touch screen devicess
+		cmd: {         // commands for touch screen devices
 			rot: false,  // auto rotation
 			wf: false    // wireframe mode
 		},
