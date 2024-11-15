@@ -16,8 +16,8 @@ Clairement, et ce n'est pas une surprise nos territoires consomment beaucoup plu
 Sous contraintes des outils utilisés et des choix réalisés, la visualisation nous dessine un paysage d'iceberg, la partie émergée (la production) étant significativement inférieure à la partie immergée (la consommation). Pour mémoire , la partie émmergée d'un iceberg représente en moyenne 1/10 de sa partie immergée.
 
 # Des outils simples mais suffisants
-QGIS comme plateforme d'intégration.
-Geopackage pour le stockage des données.
-SQL pour la préparation des données.
-Plugin Qgis Qgis2threejs pour la mise en forme Web
-Dépôt et page Github pour la publication
+* QGIS comme plateforme d'intégration.
+* Geopackage pour le stockage des données.
+* SQL pour la préparation des données.
+* Plugin Qgis Qgis2threejs pour la mise en forme Web
+* Dépôt et page Github pour la publication
