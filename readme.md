@@ -4,7 +4,7 @@ Notre environnement, nos territoires, même si nous les ramenons systématiqueme
 Alors pourquoi ne pas essayer de visualiser les données proposées en 3D? Et qui plus est de manière interactive bien sur.
 L'idée serait de permettre à l'utilisateur de pouvoir navihuer à la fois dans l'espace géographique de la région et des données proposées.
 ### Faire des choix
-Parmis les variables proposées, on retiendra la production d'énergie d'un côté, et la consommation de l'autre. attention de ne pas mélanger des choux et des carottes,MWh pour la consommation , GWh pour la production. L'année la plus récente, 2022, est retenue.
+Parmi les variables proposées, on retiendra la production d'énergie d'un côté, et la consommation de l'autre. attention de ne pas mélanger des choux et des carottes, MWh pour la consommation , GWh pour la production. L'année la plus récente, 2022, est retenue.
 
 ### Faire évoluer la proposition en avançant
 
@@ -16,8 +16,8 @@ Clairement, et ce n'est pas une surprise nos territoires consomment beaucoup plu
 Sous contraintes des outils utilisés et des choix réalisés, la visualisation nous dessine un paysage d'iceberg, la partie émergée (la production) étant significativement inférieure à la partie immergée (la consommation). Pour mémoire , la partie émmergée d'un iceberg représente en moyenne 1/10 de sa partie immergée.
 
 # Des outils simples mais suffisants
-QGIS comme d'intégration.
+QGIS comme plateforme d'intégration.
 Geopackage pour le stockage des données.
 SQL pour la préparation des données.
-Plugin Qgis Qgis2threejs pour la mise en forme
+Plugin Qgis Qgis2threejs pour la mise en forme Web
 Dépôt et page Github pour la publication
