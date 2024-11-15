@@ -20,4 +20,4 @@ Sous contraintes des outils utilisés et des choix réalisés, la visualisation 
 * Geopackage pour le stockage des données.
 * SQL pour la préparation des données.
 * Plugin Qgis Qgis2threejs pour la mise en forme Web
-* Dépôt et page[https://4estone.github.io/concourDataGE/] Github pour la publication
+* Dépôt et [page](https://4estone.github.io/concourDataGE/) Github pour la publication
