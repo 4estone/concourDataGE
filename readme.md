@@ -8,7 +8,8 @@ Parmi les variables proposées, on retiendra la production d'énergie d'un côt�
 
 ### Faire évoluer la proposition en avançant
 
-Les premières visualisations obligent à tordre un peu la représentation des données. Il s'avère nécessaires d'appliquer un facteur / 2 aux paramètres graphiques des consommations, car l'écart avec les chiffres de production est trop important et la visibilité de l'ensemble serait perturbée.
+Les premières visualisations obligent à se poser une question: faut-il appliquer un facteur aux paramètres graphiques des consommations, car l'écart avec les chiffres de production est trop important et la visibilité de l'ensemble serait améliorée?
+Finalement non, l'intégrité des données prime!
 
 # Le fond: des territoire en "déficit" énergétique
 Clairement, et ce n'est pas une surprise nos territoires consomment beaucoup plus d'énergie qu'ils n'en produisent. La question restante serait: d'ou provient l'énergie consommée?
