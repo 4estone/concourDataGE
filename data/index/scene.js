@@ -4,8 +4,8 @@ app.loadJSONObject({
     "baseExtent": {
       "cx": 1910109.8593126098,
       "cy": 7293935.723097766,
-      "width": 363891.0246945997,
-      "height": 363891.0246945997,
+      "width": 365473.81017118134,
+      "height": 365473.81017118134,
       "rotation": 0
     },
     "origin": {
@@ -21,7 +21,7 @@ app.loadJSONObject({
       "type": "layer",
       "id": 0,
       "properties": {
-        "name": "(Cons.) Aucune \u00e9nergie",
+        "name": "(Cons.) Aucune \u00e9nergie (GWh)",
         "clickable": true,
         "visible": true,
         "type": "point",
@@ -48,7 +48,7 @@ app.loadJSONObject({
           {
             "type": 0,
             "c": 2333743,
-            "o": 0.6
+            "o": 0.7
           }
         ],
         "blocks": [
@@ -4886,7 +4886,7 @@ app.loadJSONObject({
       "type": "layer",
       "id": 1,
       "properties": {
-        "name": "(Cons.) Autres non renouvelables",
+        "name": "(Cons.) Autres non renouvelables (GWh)",
         "clickable": true,
         "visible": true,
         "type": "point",
@@ -9751,7 +9751,7 @@ app.loadJSONObject({
       "type": "layer",
       "id": 2,
       "properties": {
-        "name": "(Cons.) Autres \u00e9nergies renouvelables",
+        "name": "(Cons.) Autres \u00e9nergies renouvelables (GWh)",
         "clickable": true,
         "visible": true,
         "type": "point",
@@ -14616,7 +14616,7 @@ app.loadJSONObject({
       "type": "layer",
       "id": 3,
       "properties": {
-        "name": "(Cons.) Combustibles Min\u00e9raux Solides",
+        "name": "(Cons.) Combustibles Min\u00e9raux Solides (GWh)",
         "clickable": true,
         "visible": true,
         "type": "point",
@@ -19481,7 +19481,7 @@ app.loadJSONObject({
       "type": "layer",
       "id": 4,
       "properties": {
-        "name": "(Cons.) Chaleur et froid issus de r\u00e9seau",
+        "name": "(Cons.) Chaleur et froid issus de r\u00e9seau (GWh)",
         "clickable": true,
         "visible": true,
         "type": "point",
@@ -24346,7 +24346,7 @@ app.loadJSONObject({
       "type": "layer",
       "id": 5,
       "properties": {
-        "name": "(Cons.) Bois-\u00e9nergie (EnR)",
+        "name": "(Cons.) Bois-\u00e9nergie (GWh)",
         "clickable": true,
         "visible": true,
         "type": "point",
@@ -29211,7 +29211,7 @@ app.loadJSONObject({
       "type": "layer",
       "id": 6,
       "properties": {
-        "name": "(Cons.) Electricit\u00e9",
+        "name": "(Cons.) Electricit\u00e9 (GWh)",
         "clickable": true,
         "visible": true,
         "type": "point",
@@ -34076,7 +34076,7 @@ app.loadJSONObject({
       "type": "layer",
       "id": 7,
       "properties": {
-        "name": "(Cons.) Gaz",
+        "name": "(Cons.) Gaz (GWh)",
         "clickable": true,
         "visible": true,
         "type": "point",
@@ -38941,7 +38941,7 @@ app.loadJSONObject({
       "type": "layer",
       "id": 8,
       "properties": {
-        "name": "(Cons.) Produits p\u00e9troliers",
+        "name": "(Cons.) Produits p\u00e9troliers (GWh)",
         "clickable": true,
         "visible": true,
         "type": "point",
@@ -43806,7 +43806,7 @@ app.loadJSONObject({
       "type": "layer",
       "id": 9,
       "properties": {
-        "name": "(Prod.) Production de biocombustibles",
+        "name": "(Prod.) Production de biocombustibles (GWh)",
         "clickable": true,
         "visible": true,
         "type": "point",
@@ -46254,7 +46254,7 @@ app.loadJSONObject({
       "type": "layer",
       "id": 10,
       "properties": {
-        "name": "(Prod.) Eolien",
+        "name": "(Prod.) Eolien (GWh)",
         "clickable": true,
         "visible": true,
         "type": "point",
@@ -48702,7 +48702,7 @@ app.loadJSONObject({
       "type": "layer",
       "id": 11,
       "properties": {
-        "name": "(Prod.) Solaire thermique",
+        "name": "(Prod.) Solaire thermique (GWh)",
         "clickable": true,
         "visible": true,
         "type": "point",
@@ -54019,7 +54019,7 @@ app.loadJSONObject({
       "type": "layer",
       "id": 12,
       "properties": {
-        "name": "(Prod.) G\u00e9othermie tr\u00e8s haute \u00e9nergie ",
+        "name": "(Prod.) G\u00e9othermie tr\u00e8s haute \u00e9nergie (GWh)",
         "clickable": true,
         "visible": true,
         "type": "point",
@@ -59336,7 +59336,7 @@ app.loadJSONObject({
       "type": "layer",
       "id": 13,
       "properties": {
-        "name": "(Prod.) Incin\u00e9ration d\u00e9chets",
+        "name": "(Prod.) Incin\u00e9ration d\u00e9chets (GWh)",
         "clickable": true,
         "visible": true,
         "type": "point",
@@ -64653,7 +64653,7 @@ app.loadJSONObject({
       "type": "layer",
       "id": 14,
       "properties": {
-        "name": "(Prod.) Solaire photovolta\u00efque",
+        "name": "(Prod.) Solaire photovolta\u00efque (GWh)",
         "clickable": true,
         "visible": true,
         "type": "point",
@@ -69970,7 +69970,7 @@ app.loadJSONObject({
       "type": "layer",
       "id": 15,
       "properties": {
-        "name": "(Prod.) Bois \u00e9nergie",
+        "name": "(Prod.) Bois \u00e9nergie (GWh)",
         "clickable": true,
         "visible": true,
         "type": "point",
@@ -75287,7 +75287,7 @@ app.loadJSONObject({
       "type": "layer",
       "id": 16,
       "properties": {
-        "name": "(Prod.) PACs g\u00e9othermiques",
+        "name": "(Prod.) PACs g\u00e9othermiques (GWh)",
         "clickable": true,
         "visible": true,
         "type": "point",
@@ -80604,7 +80604,7 @@ app.loadJSONObject({
       "type": "layer",
       "id": 17,
       "properties": {
-        "name": "(Prod.) PACs a\u00e9rothermiques",
+        "name": "(Prod.) PACs a\u00e9rothermiques (GWh)",
         "clickable": true,
         "visible": true,
         "type": "point",
@@ -85921,7 +85921,7 @@ app.loadJSONObject({
       "type": "layer",
       "id": 18,
       "properties": {
-        "name": "(Prod.) Production d'agrocarburants",
+        "name": "(Prod.) Production d'agrocarburants (GWh)",
         "clickable": true,
         "visible": true,
         "type": "point",
